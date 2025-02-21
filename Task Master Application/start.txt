@@ -1,8 +1,0 @@
-firstly install virtualenv
-"pip install virtualenv"
-
-then create a environament folder
-"python -m venv myenv" myenv bass naam hai jo change kiya jaa sakta hai
-
-uske baad last me 
-"myenv\scripts\activate" phir activate ho jayega
