@@ -1,3 +1,0 @@
-This is an example text file.
-It contains multiple lines of text.
-And some words on each line.
